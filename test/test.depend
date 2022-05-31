@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637199275 source:g:\cpp\test\main.cpp
+	<iostream>
+	<windows.h>
+	<iostream>
+	<assert.h>
+	<sql.h>
+	<sqlext.h>
+

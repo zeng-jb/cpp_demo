@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: win计算平均成绩 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\123\AppData\Local\Temp\RSP6A54.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/win计算平均成绩.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"G:\cpp\win计算平均成绩\win计算平均成绩.cpp"
+"G:\cpp\win计算平均成绩\win计算平均成绩Dlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\123\AppData\Local\Temp\RSP6A54.tmp" 
+Creating temporary file "C:\Users\123\AppData\Local\Temp\RSP6A65.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/win计算平均成绩.pdb" /debug /machine:I386 /out:"Debug/win计算平均成绩.exe" /pdbtype:sept 
+".\Debug\win计算平均成绩.obj"
+".\Debug\win计算平均成绩Dlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\win计算平均成绩.res"
+]
+Creating command line "link.exe @C:\Users\123\AppData\Local\Temp\RSP6A65.tmp"
+<h3>Output Window</h3>
+Compiling...
+win计算平均成绩Dlg.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+win计算平均成绩.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+win计算平均成绩.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,2 @@
+G:\cpp\pojlainxxi\Debug\pojlainxxi.exe
+G:\cpp\pojlainxxi\Debug\pojlainxxi.pdb
