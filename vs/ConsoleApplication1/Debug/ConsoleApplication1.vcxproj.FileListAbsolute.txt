@@ -1,0 +1,2 @@
+G:\c语言\vs\ConsoleApplication1\Debug\ConsoleApplication1.exe
+G:\c语言\vs\ConsoleApplication1\Debug\ConsoleApplication1.pdb

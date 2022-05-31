@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "座位排序", "座位排序\座位排序.vcxproj", "{1478F560-40C0-4EDE-9837-3C07A862BDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1478F560-40C0-4EDE-9837-3C07A862BDD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1478F560-40C0-4EDE-9837-3C07A862BDD8}.Debug|Win32.Build.0 = Debug|Win32
+		{1478F560-40C0-4EDE-9837-3C07A862BDD8}.Release|Win32.ActiveCfg = Release|Win32
+		{1478F560-40C0-4EDE-9837-3C07A862BDD8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

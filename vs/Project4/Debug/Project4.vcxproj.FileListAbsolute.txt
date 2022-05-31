@@ -1,0 +1,2 @@
+G:\c语言\vs\Project4\Debug\Project4.exe
+G:\c语言\vs\Project4\Debug\Project4.pdb

@@ -1,0 +1,4 @@
+﻿  p3750.cpp
+G:\c语言\ACM作业练习题\poj3750\p3750.cpp(60,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\c语言\ACM作业练习题\poj3750\p3750.cpp(62,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\c语言\ACM作业练习题\poj3750\p3750.cpp(64,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

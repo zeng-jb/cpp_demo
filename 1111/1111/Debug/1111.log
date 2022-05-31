@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/11/17 22:37:39。
+     1>项目“G:\c语言\1111\1111\1111.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\1111.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         G:\Microsoft Visual Studio\Installer\zh-hant\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 11111.cpp
+         11111.cpp
+     1>g:\c语言\1111\1111\11111.cpp(7): error C2057: 应输入常量表达式
+     1>g:\c语言\1111\1111\11111.cpp(7): error C2466: 不能分配常量大小为 0 的数组
+     1>g:\c语言\1111\1111\11111.cpp(7): error C2133: “a”: 未知的大小
+     1>g:\c语言\1111\1111\11111.cpp(7): error C2057: 应输入常量表达式
+     1>g:\c语言\1111\1111\11111.cpp(7): error C2466: 不能分配常量大小为 0 的数组
+     1>g:\c语言\1111\1111\11111.cpp(7): error C2133: “b”: 未知的大小
+     1>已完成生成项目“G:\c语言\1111\1111\1111.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.38

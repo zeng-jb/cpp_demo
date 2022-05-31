@@ -1,0 +1,20 @@
+// hello.idl : IDL source for hello.dll
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (hello.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(75B2D2E3-4835-4BA9-AD9A-7B52BDA8F006),
+	version(1.0),
+	helpstring("hello 1.0 Type Library")
+]
+library HELLOLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+};
